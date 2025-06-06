@@ -1,0 +1,55 @@
+body{
+			color:white;
+}
+	
+h1{
+		color:black;
+		text-align: center;
+}
+
+div{
+		width:200px;
+		height:100px;
+		padding:30px;
+		text-align: center;
+		border-radius:40px;
+}
+	
+		
+			
+		#cajanegra{
+			background-color: black;
+			clear:both;
+			width:97%;
+			}
+		#cajaazul{
+			background-color: #7ea2d7;
+			float: right;
+			img{
+				width: 40% ;
+				height: 90px ;
+				}
+			}	
+		#cajaroja{
+			background-color: #ff8876;
+			float: left;
+			img{
+				width: 40% ;
+				height: 90px ;
+				}
+			}
+		#cajamorada{
+			background-color: #ba8cc3;
+			float: right;
+			clear:both
+			}
+		#cajaverde{
+			background-color: #aed77e;
+			float: left;
+			}
+		
+		#cajarosa{
+			background-color: #ffc8e5;
+			clear:both;
+			width:97%;
+			}
